@@ -1,0 +1,200 @@
+BP_Rifle_AUG_Wrapper_--AUG--Rifle--Weapon--101006--items
+BP_Rifle_G36_Wrapper_--G36C--Rifle--Weapon---101010--items
+BP_Rifle_Groza_Wrapper_--Groza--Rifle--Weapon--101005--items
+BP_Rifle_AKM_Wrapper_--AKM--Rifle--Weapon--101001--items
+BP_Rifle_FAMAS_Wrapper_--FAMAS--Rifle--Weapon--101100--items
+BP_Rifle_M16A4_Wrapper_--M16A4--Rifle--Weapon--101002--items
+BP_Rifle_M416_Wrapper_--M416--Rifle--Weapon--101004--items
+BP_Rifle_M762_Wrapper_--M762--Rifle--Weapon--101008--items
+BP_Rifle_Mk47_Wrapper_--Mk47 Mutnat--Rifle--Weapon--101009--items
+BP_Rifle_QBZ_Wrapper_--QBZ--Rifle--Weapon--101007--items
+BP_Rifle_SCAR_Wrapper_--SCAR-L--Rifle--Weapon--101003--items
+BP_Rifle_HoneyBadger_Wrapper_--Honey Badger--Rifle--Weapon--101012--items
+BP_Rifle_ACE32_Wrapper_--ACE32--Rifle--Weapon--101102--items
+BP_MachineGun_MP5K_Wrapper_--MP5K--MachineGun--Weapon--102007--items
+BP_MachineGun_PP19_Wrapper_--PP-19 Bizon--MachineGun--Weapon--102005--items
+BP_MachineGun_P90_Wrapper_--P90--MachineGun--Weapon--102105--items
+BP_MachineGun_TommyGun_Wrapper_--Thompson SMG--MachineGun--Weapon--102004--items
+BP_MachineGun_UMP45_Wrapper_--UMP45--MachineGun--Weapon--102002--items
+BP_MachineGun_Uzi_Wrapper_--UZI--MachineGun--Weapon--102001--items
+BP_MachineGun_Vector_Wrapper_--Vector--MachineGun--Weapon--102003--items
+BP_Sniper_M24_Wrapper_--M24--Sniper--Weapon--103002--items
+BP_Sniper_Kar98k_Wrapper_--Kar98k--Sniper--Weapon--103001--items
+BP_Sniper_AWM_Wrapper_--AWM--Sniper--Weapon--103003--items
+BP_Sniper_SKS_Wrapper_--SKS--Sniper--Weapon--103004--items
+BP_Sniper_Mini14_Wrapper_--Mini14--Sniper--Weapon--103006--items
+BP_Sniper_Win94_Wrapper_--Win94--Sniper--Weapon--103008--items
+BP_Sniper_QBU_Wrapper_--QBU--Sniper--Weapon--103010--items
+BP_Sniper_VSS_Wrapper_--VSS--Sniper--Weapon--103005--items
+BP_Sniper_Mosin_Wrapper_--Mosin Nagant Sniper Rifle--Sniper--Weapon--103011--items
+BP_Sniper_SLR_Wrapper_--SLR--Sniper--Weapon--103009--items
+BP_Sniper_Mk14_Wrapper_--Mk14--Sniper--Weapon--103007--items
+BP_Sniper_AMR_Wrapper_--AMR--Sniper--Weapon--103012--items
+BP_Sniper_DSR_Wrapper_--DSR--Sniper--Weapon--103102--items
+BP_ShotGun_S12K_Wrapper_--S12K--ShotGun--Weapon--104003--items
+BP_ShotGun_S1897_Wrapper_--S1897--ShotGun--Weapon--104002--items
+BP_ShotGun_S686_Wrapper_--S686--ShotGun--Weapon--104001--items
+BP_ShotGun_DP12_Wrapper_--DBS--ShotGun--Weapon--104004--items
+BP_ShotGun_SPAS12_Wrapper_--SPAS_12--ShotGun--Weapon--104100--items
+BP_ShotGun_M1014_Wrapper_--M1014--ShotGun--Weapon--104101--items
+BP_ShotGun_Neostead2000_Wrapper_--Neostead2000--ShotGun--Weapon--104102--items
+BP_ShotGun_SawedOff_Wrapper_--SawedOff--ShotGun--Weapon--106006--items
+BP_Other_DP28_Wrapper_--DP-28--Other--Weapon--105002--items
+BP_Other_M249_Wrapper_--M249--Other--Weapon--105001--items
+BP_Other_MG3_Wrapper_--MG3--Other--Weapon--105010--items
+BP_Other_M3E1_Wrapper_--M3E1--Other--Weapon--107099--items
+BP_Other_M134_Wrapper_--M134--Other--Weapon--105003--items
+BP_Other_M79_Wrapper_--M79--Other--Weapon--107097--items
+BP_Other_AT4A_Wrapper_--AT4-A Laser Missile--Other--Weapon--107094--items
+BP_Other_M202_Wrapper_--M202 Quadruple RPG--Other--Weapon--107095--items
+BP_Other_MGL_Wrapper_--MGL--Other--Weapon--107098--items
+BP_Other_rossbow_Wrapper_--Crossbow--Other--Weapon--107001--items
+BP_Other_RPG7_Wrapper_--RPG-7--Other--Weapon--107002--items
+BP_Other_Shield_Wrapper_--Shield--Other--Weapon--1301006--items
+BP_Other_SawedOffM79_Wrapper_--Sawed Off M79--Other--Weapon--107096--items
+BP_Other_PanzerFaust_Wrapper_--Panzerfaust--Other--Weapon--107005--items
+BP_Pistol_P1911_Wrapper_--P1911--Pistol--Weapon--106002--items
+BP_Pistol_P92_Wrapper_--P92--Pistol--Weapon--106001--items
+BP_Pistol_Vz61_Wrapper_--Skorpion--Pistol--Weapon--106008--items
+BP_Pistol_R1895_Wrapper_--R1895--Pistol--Weapon--106003--items
+BP_Pistol_P18C_Wrapper_--P18C--Pistol--Weapon--106004--items
+BP_Pistol_R45_Wrapper_--R45--Pistol--Weapon--106005--items
+BP_Pistol_Flaregun_Wrapper_--Flaregun--Pistol--Weapon--106007--items
+BP_Pistol_DesertEagle_Wrapper_--Desert Eagle--Pistol--Weapon--106010--items
+BP_WEP_Machete_Pickup_--Machete--Melee--Weapon--108001--items
+BP_WEP_owbar_Pickup_--Crowbar--Melee--Weapon--108002--items
+BP_WEP_Sickle_Pickup_--Sickle--Melee--Weapon--108003--items
+BP_WEP_Pan_Pickup_--Pan--Melee--Weapon--108004--items
+BP_WEP_Dagger_Pickup_--Dagger--Melee--Weapon--108005--items
+BP_WEP_Mk14_Pickup_--Mk14--Melee--Weapon--103007--items
+VehicleRadar_Pickup_--Vehicle Radar--Health--Health--602094--items
+KChickenDinner_Pickup_--KFC Chicken Dinner--Health--Health--601214--items
+KChickenBucket_Pickup_--KFC Chicken Bucket--Health--Health--601213--items
+Kcola_Pickup_--Kcola--Health--Health--601211--items
+Drink_Pickup_--Energy Drink--Health--Health--601001--items
+Injection_Pickup_--Adrenaline Syringe--Health--Health--601002--items
+Pills_Pickup_--Painkillers--Health--Health--601003--items
+Bandage_Pickup_--Bandage--Health--Health--601004--items
+Firstaid_Pickup_--Firstaid--Health--Health--601005--items
+FirstAidbox_Pickup_--Med Kit--Health--Health--601006--items
+Antidote_Pickup_--Antidote--Health--Health--601007--items
+quickBandage_Pickup_--Quick Bandage--Health--Health--601009--items
+quickFirstaid_Pickup_--Quick Firstaid--Health--Health--601010--items
+RapidAidbox_Pickup_--Rapid Aidbox--Health--Health--601011--items
+BP_DJ_Large_E_Pickup_--Extended Quickdraw Mag (AR)--Mag--Attachment--204011--items
+BP_DJ_Large_EQ_Pickup_--Extended Quickdraw Mag (AR)--Mag--Attachment--204013--items
+BP_DJ_Large_Q_Pickup_--Quickdraw Mag (AR)--Mag--Attachment--204012--items
+BP_DJ_Mid_E_Pickup_--Extended Mag (SMG, Pistols)--Mag--Attachment--204004--items
+BP_DJ_Mid_EQ_Pickup_--Extended Quickdraw Mag (SMG, Pistols)--Mag--Attachment--204006--items
+BP_DJ_Mid_Q_Pickup_--Quickdraw Mag (SMG, Pistols)--Mag--Attachment--204005--items
+BP_DJ_Sniper_E_Pickup_--Extended Mag (Snipers)--Mag--Attachment--204007--items
+BP_DJ_Sniper_EQ_Pickup_--Extended Quickdraw Mag (Snipers)--Mag--Attachment--204009--items
+BP_DJ_Sniper_Q_Pickup_--Quickdraw Mag (Snipers)--Mag--Attachment--204008--items
+BP_MZJ_2X_Pickup_--2x Scope--Scopes--Attachment--203003--items
+BP_MZJ_3X_Pickup_--3x Scope--Scopes--Attachment--203014--items
+BP_MZJ_4X_Pickup_--4x Scope--Scopes--Attachment--203004--items
+BP_MZJ_6X_Pickup_--6x Scope--Scopes--Attachment--203015--items
+BP_MZJ_8X_Pickup_--8x Scope--Scopes--Attachment--203005--items
+BP_MZJ_HD_Pickup_--Red Dot Sight--Scopes--Attachment--203001--items
+BP_MZJ_QX_Pickup_--HoloGraphic Sight--Scopes--Attachment--203002--items
+BP_MZJ_SideRMR_Pickup_--Canted Sight--Scopes--Attachment--203018--items
+BP_Ammo_9mm_Pickup_--9mm--Ammo--Attachment--301001--items
+BP_Ammo_762mm_Pickup_--7.62mm--Ammo--Attachment--302001--items
+BP_Ammo_556mm_Pickup_--5.56mm--Ammo--Attachment--303001--items
+BP_Ammo_12Guage_Pickup_--12-Guage--Ammo--Attachment--304001--items
+BP_Ammo_45ACP_Pickup_--45-ACP--Ammo--Attachment--305001--items
+BP_Ammo_300Magnum_Pickup_--300-Magnum--Ammo--Attachment--306001--items
+BP_Ammo_Bolt_Pickup_--Bolt--Ammo--Attachment--307001--items
+BP_QK_Large_ompensator_Pickup_--Compensator (AR)--Attachment--Attachment--201009--items
+BP_QK_Large_FlashHider_Pickup_--FlashHider (AR)--Attachment--Attachment--201010--items
+BP_QK_Large_Suppressor_Pickup_--Suppressor (AR)--Attachment--Attachment--201011--items
+BP_QK_Mid_ompensator_Pickup_--Compensator (SMG)--Attachment--Attachment--201002--items
+BP_QK_Mid_FlashHider_Pickup_--FlashHider (SMG)--Attachment--Attachment--201004--items
+BP_QK_Mid_Suppressor_Pickup_--Suppressor (SMG)--Attachment--Attachment--201006--items
+BP_QK_Sniper_ompensator_Pickup_--Compensator (Snipers)--Attachment--Attachment--201003--items
+BP_QK_Sniper_FlashHider_Pickup_--FlashHider (Snipers)--Attachment--Attachment--201005--items
+BP_QK_Sniper_Suppressor_Pickup_--Suppressor (Snipers)--Attachment--Attachment--201007--items
+BP_QK_hoke_Pickup_--Choke (SG)--Attachment--Attachment--201001--items
+BP_QK_DuckBill_Pickup_--DuckBill (ShutGuns)--Attachment--Attachment--201012--items
+BP_QT_A_Pickup_--Tactical Stock--Attachment--Attachment--205002--items
+BP_QT_Sniper_Pickup_--Cheek Pad (Snipers)--Attachment--Attachment--205003--items
+BP_QT_UZI_Pickup_--Stock (Micro UZI)--Attachment--Attachment--205001--items
+BP_WB_Angled_Pickup_--Angled Foregrip--Attachment--Attachment--202001--items
+BP_WB_HalfGrip_Pickup_--Half-Grip--Attachment--Attachment--202005--items
+BP_WB_Lasersight_Pickup_--Lasersight--Attachment--Attachment--202007--items
+BP_WB_LightGrip_Pickup_--Light-Grip--Attachment--Attachment--202004--items
+BP_WB_ThumbGrip_Pickup_--Thumb-Grip--Attachment--Attachment--202006--items
+BP_WB_Vertical_Pickup_--Vertical Foregrip--Attachment--Attachment--202002--items
+BP_ZDD_rossbow_Q_Pickup_--Quiver (Crossbow)--Attachment--Attachment--205004--items
+BP_ZDD_Sniper_Pickup_--Bullet Loop--Attachment--Attachment--204014--items
+PickUp_BP_Armor_Lv1_--Police Vest (Lv.1)--Attachment--Attachment--503001--items
+PickUp_BP_Armor_Lv2_--Police Vest (Lv.2)--Attachment--Attachment--503002--items
+PickUp_BP_Armor_Lv3_--Military Vest (Lv.3)--Attachment--Attachment--503003--items
+PickUp_BP_Bag_Lv1_--Backpack (Lv.1)--Attachment--Attachment--501001--items
+PickUp_BP_Bag_Lv2_--Backpack (Lv.2)--Attachment--Attachment--501002--items
+PickUp_BP_Bag_Lv3_B_--Backpack (Lv.3)--Attachment--Attachment--501003--items
+PickUp_BP_Ghillie_1_--Ghillie--Attachment--Attachment----items
+PickUp_BP_Helmet_Lv1_--Motorcycle Helmet (Lv.1)--Attachment--Attachment--502001--items
+PickUp_BP_Helmet_Lv2_--Military Helmet (Lv.2)--Attachment--Attachment--502002--items
+PickUp_BP_Helmet_Lv3_--Spetsnaz Helmet (Lv.3)--Attachment--Attachment--502003--items
+Pickup_LevelUpMK12_--Up MK12--Attachment--Attachment--206104--items
+Pickup_LevelUpM416_--Up M416--Attachment--Attachment--206102--items
+Pickup_LevelUpM24_--Up M24--Attachment--Attachment--206105--items
+Pickup_LevelUpAkm_--Up Akm--Attachment--Attachment--206101--items
+Pickup_LevelUpP90_--Up P90--Attachment--Attachment--206103--items
+PickUp_BP_Ghillie_1--Ghillie 1--Attachment--Attachment--403045--items
+PickUp_BP_Ghillie_2--Ghillie 2--Attachment--Attachment--403187--items
+PickUp_BP_Ghillie_3--Ghillie 3--Attachment--Attachment--403989--items
+PickUp_BP_Ghillie_4--Ghillie 4--Attachment--Attachment--403990--items
+BP_Grenade_Stun_Weapon_Wrapper_--Stun Grenade--Grenade--Grenade--602001--items
+BP_Grenade_Smoke_Weapon_Wrapper_--Smoke Grenade--Grenade--Grenade--602002--items
+BP_Grenade_Burn_Weapon_Wrapper_--Molotov Cocktail--Grenade--Grenade--602003--items
+BP_Grenade_Shoulei_Weapon_Wrapper_--Frag Grenade--Grenade--Grenade--602004--items
+BP_Grenade_Apple_Weapon_Wrapper_--Apple--Grenade--Grenade--602005--items
+BP_Grenade_StickyBomb_Wrapper_--Sticky Bomb--Grenade--Grenade--602045--items
+BP_Grenade_EmergencyCall_Weapon_Wrapper_--EmergencyCall--Grenade--Grenade--602069--items
+BP_Grenade_HealSmoke_Weapon_Wrapper_--Heal Smoke--Grenade--Grenade--602093--items
+BP_Grenade_Shoulei_Weapon_Wrapper_Big_--Frag Grenade (L)--Grenade--Grenade--602014--items
+BP_Grenade_Smoke_Weapon_Wrapper_Big_--Smoke Grenade (L)--Grenade--Grenade--602015--items
+BP_Grenade_Burn_Weapon_Wrapper_Big_--Molotov Cocktail (L)--Grenade--Grenade--602016--items
+VH_Motorcycle_--Motorcycle--Motor--Section--1901001--vehicles
+VH_MotorcycleCart_--Motorcycle Cart--Motor--Section--1902001--vehicles
+VH_Dacia--Dacia--Sedan--Section--1903001--vehicles
+VH_MiniBus--MiniBus--Other--Section--1904001--vehicles
+PickUp_01--Pickup (Open Top)--Pickup--Section--1905001--vehicles
+PickUp_02--Pickup (Closeed Top)--Pickup--Section--1906001--vehicles
+VH_Buggy--Buggy--Buggy--Section--1907001--vehicles
+VH_UAZ01--UAZ--UAZ--Section--1908001--vehicles
+VH_UAZ02--UAZ (Closed Top)--UAZ--Section--1909001--vehicles
+VH_UAZ03--UAZ (Open Top)--UAZ--Section--1910001--vehicles
+VH_UAZ04--Armed UAZ--UAZ--Section--1957001--vehicles
+VH_PG117--PG117--Boat--Section--1911001--vehicles
+VH_AquaRail--Jet Ski--Boat--Section--1912001--vehicles
+VH_Mirado_lose--Mirado Close--Sedan--Section--1914001--vehicles
+VH_Mirado_open--Mirado open--Sedan--Section--1915001--vehicles
+Rony_01--Rony--Pickup--Section--1916001--vehicles
+VH_Scooter--Scooter--Motor--Section--1917001--vehicles
+VH_Snowmobile--Snow Mobile--Motor--Section--1918001--vehicles
+BP_VH_Tuk--Tukshai--Other--Section--1919001--vehicles
+VH_SnowbiKe--Snow Bike--Motor--Section--1920001--vehicles
+VH_ModelY--ModelY--Other--Section--1929001--vehicles
+VH_ATV--ATV--Other--Section--1930001--vehicles
+BP_LionDance--Dance Lion--Other--Section--1932001--vehicles
+BP_VH_Bigfoot--Monster Truck--Other--Section--1953001--vehicles
+UH60_Vehicle--UH60 Helicopter--Other--Section--1958001--vehicles
+VH_Motorglider--Motor Glider--Other--Section--1960001--vehicles
+VH_oupeRB--CoupeRB--Sedan--Section--1961001--vehicles
+VH_UTV--UTV--Buggy--Section--1966001--vehicles
+BP_Bike_2--2-Seat Bike--Other--Section--1967001--vehicles
+VH_BRDM--Amphibious--Other--Section--001--vehicles
+BP_Grenade_Stun_--Stun Grenade--GrenadeBomb--GrenadeBomb--602001--bomb
+BP_Grenade_Smoke_--Smoke Grenade--GrenadeBomb--GrenadeBomb--602002--bomb
+BP_Grenade_Burn_--Molotov Cocktail--GrenadeBomb--GrenadeBomb--602003--bomb
+BP_Grenade_Shoulei_--Frag Grenade--GrenadeBomb--GrenadeBomb--602004--bomb
+BP_Grenade_Apple_--Apple--GrenadeBomb--GrenadeBomb--602005--bomb
+BP_Grenade_StickyBomb_Wrapper_--Sticky Bomb--GrenadeBomb--GrenadeBomb--602045--bomb
+BP_Grenade_EmergencyCall_--EmergencyCall--GrenadeBomb--GrenadeBomb--602069--bomb
+BP_Grenade_HealSmoke_--Heal Smoke--GrenadeBomb--GrenadeBomb--602093--bomb
+BP_Grenade_Shoulei_Big_--Frag Grenade (L)--GrenadeBomb--GrenadeBomb--602014--bomb
+BP_Grenade_Smoke_Big_--Smoke Grenade (L)--GrenadeBomb--GrenadeBomb--602015--bomb
+BP_Grenade_Burn_Big_--Molotov Cocktail (L)--GrenadeBomb--GrenadeBomb--602016--bomb
