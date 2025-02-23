@@ -1,0 +1,11 @@
+BP_Grenade_Stun_--Stun Grenade--GrenadeBomb--GrenadeBomb--602001--bomb
+BP_Grenade_Smoke_--Smoke Grenade--GrenadeBomb--GrenadeBomb--602002--bomb
+BP_Grenade_Burn_--Molotov Cocktail--GrenadeBomb--GrenadeBomb--602003--bomb
+BP_Grenade_Shoulei_--Frag Grenade--GrenadeBomb--GrenadeBomb--602004--bomb
+BP_Grenade_Apple_--Apple--GrenadeBomb--GrenadeBomb--602005--bomb
+BP_Grenade_StickyBomb_Wrapper_--Sticky Bomb--GrenadeBomb--GrenadeBomb--602045--bomb
+BP_Grenade_EmergencyCall_--EmergencyCall--GrenadeBomb--GrenadeBomb--602069--bomb
+BP_Grenade_HealSmoke_--Heal Smoke--GrenadeBomb--GrenadeBomb--602093--bomb
+BP_Grenade_Shoulei_Big_--Frag Grenade (L)--GrenadeBomb--GrenadeBomb--602014--bomb
+BP_Grenade_Smoke_Big_--Smoke Grenade (L)--GrenadeBomb--GrenadeBomb--602015--bomb
+BP_Grenade_Burn_Big_--Molotov Cocktail (L)--GrenadeBomb--GrenadeBomb--602016--bomb.
