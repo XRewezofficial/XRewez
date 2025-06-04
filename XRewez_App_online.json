@@ -1,13 +1,42 @@
-{
-  "apps": [
-    {
-      "id": "app1",
-      "name": "تطبيقي",
-      "package": "com.example.app",
-      "version": "1.0",
-      "last_update": "2025-06-01",
-      "apk_url": "https://example.com/app.apk",
-      "image_url": "https://example.com/image.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": "app1",
+    "name": "PUBG Mobile Global",
+    "package": "com.tencent.ig",
+    "version": "3.8",
+    "last_update": "2025-05-01",
+    "arch": "arm64-v8a",
+    "image_url": "https://example.com/app1.png",
+    "apk_url": "https://example.com/app1.apk"
+  },
+  {
+    "id": "app2",
+    "name": "PUBG Mobile Global",
+    "package": "com.tencent.ig",
+    "version": "3.8",
+    "last_update": "2025-04-15",
+    "arch": "armeabi-v7a",
+    "image_url": "https://example.com/app2.png",
+    "apk_url": "https://example.com/app2.apk"
+  },
+  {
+    "id": "app3",
+    "name": "PUBG Mobile Korea",
+    "package": "com.pubg.krmobile",
+    "version": "3.8",
+    "last_update": "2025-05-01",
+    "arch": "arm64-v8a",
+    "image_url": "https://example.com/app1.png",
+    "apk_url": "https://example.com/app1.apk"
+  },
+  {
+    "id": "app4",
+    "name": "PUBG Mobile Korea",
+    "package": "com.pubg.krmobile",
+    "version": "3.8",
+    "last_update": "2025-04-15",
+    "arch": "armeabi-v7a",
+    "image_url": "https://example.com/app2.png",
+    "apk_url": "https://example.com/app2.apk"
+  }
+]
