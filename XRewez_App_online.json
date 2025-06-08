@@ -1,6 +1,17 @@
 [
-  {
+    {
     "id": "app1",
+    "type": "app",
+    "name": "MT Manger",
+    "package": "com.mt.manager",
+    "version": "11",
+    "last_update": "2025-05-01",
+    "arch": "arm64-v8a",
+    "image_url": "https://example.com/app1.png",
+    "apk_url": "https://github.com/XRewezofficial/XRewez/raw/main/%D8%A5%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC%20%D8%A7%D9%84%D8%A7%D8%B2%D8%A7%D8%AD%D8%A7%D8%AA_1.0.apk"
+  },
+  {
+    "id": "Games1",
     "type": "Games",
     "name": "PUBG Mobile Global",
     "package": "com.tencent.ig",
@@ -11,7 +22,7 @@
     "apk_url": "https://github.com/XRewezofficial/XRewez/raw/main/%D8%A5%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC%20%D8%A7%D9%84%D8%A7%D8%B2%D8%A7%D8%AD%D8%A7%D8%AA_1.0.apk"
   },
   {
-    "id": "app2",
+    "id": "Games2",
     "type": "Games",
     "name": "PUBG Mobile Global",
     "package": "com.tencent.ig",
@@ -22,7 +33,7 @@
     "apk_url": "https://drive.google.com/uc?export=download&id=1-DAXwybi07uKMtNcmAFt0RCZkW-bcM8u"
   },
   {
-    "id": "app3",
+    "id": "Games3",
     "type": "Games",
     "name": "PUBG Mobile Korea",
     "package": "com.pubg.krmobile",
@@ -33,7 +44,7 @@
     "apk_url": "https://example.com/app1.apk"
   },
   {
-    "id": "app4",
+    "id": "Games4",
     "type": "Games",
     "name": "PUBG Mobile Korea",
     "package": "com.pubg.krmobile",
