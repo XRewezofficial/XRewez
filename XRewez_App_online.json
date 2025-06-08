@@ -1,6 +1,7 @@
 [
   {
     "id": "app1",
+    "type": "Games",
     "name": "PUBG Mobile Global",
     "package": "com.tencent.ig",
     "version": "3.8",
@@ -11,6 +12,7 @@
   },
   {
     "id": "app2",
+    "type": "Games",
     "name": "PUBG Mobile Global",
     "package": "com.tencent.ig",
     "version": "3.8",
@@ -21,6 +23,7 @@
   },
   {
     "id": "app3",
+    "type": "Games",
     "name": "PUBG Mobile Korea",
     "package": "com.pubg.krmobile",
     "version": "3.8",
@@ -31,6 +34,7 @@
   },
   {
     "id": "app4",
+    "type": "Games",
     "name": "PUBG Mobile Korea",
     "package": "com.pubg.krmobile",
     "version": "3.8",
