@@ -18,7 +18,7 @@
     "version": "3.8.1",
     "last_update": "2025-06-08",
     "arch": "arm64-v8a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-GL-v3.8.1-Image.png"
+    "image_url": "https://mt3ateema.com/image/PUBGM-GL-v3.8.1-Image.png",
     "apk_url": "https://mt3ateema.com/gl64bit/PUBGM-GL-v3.8.1-64Bit.apk"
   },
   {
@@ -29,7 +29,7 @@
     "version": "3.8",
     "last_update": "2025-06-08",
     "arch": "armeabi-v7a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-GL-v3.8.1-Image.png"
+    "image_url": "https://mt3ateema.com/image/PUBGM-GL-v3.8.1-Image.png",
     "apk_url": "https://mt3ateema.com/gl32bit/PUBGM-GL-v3.8.1-32Bit.apk"
   },
   {
@@ -40,7 +40,7 @@
     "version": "3.8",
     "last_update": "2025-06-08",
     "arch": "arm64-v8a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-KR-v3.8-Image.png"
+    "image_url": "https://mt3ateema.com/image/PUBGM-KR-v3.8-Image.png",
     "apk_url": "https://mt3ateema.com/kr64bit/PUBGM-KR-v3.8-64Bit.apk"
   },
   {
@@ -51,7 +51,7 @@
     "version": "3.8",
     "last_update": "2025-06-08",
     "arch": "armeabi-v7a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-KR-v3.8-Image.png"
+    "image_url": "https://mt3ateema.com/image/PUBGM-KR-v3.8-Image.png",
     "apk_url": "https://mt3ateema.com/kr32bit/PUBGM-KR-v3.8-32Bit.apk"
   },
     {
@@ -62,7 +62,7 @@
     "version": "3.8",
     "last_update": "2025-06-08",
     "arch": "arm64-v8a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-VN-v3.8-Image.png"
+    "image_url": "https://mt3ateema.com/image/PUBGM-VN-v3.8-Image.png",
     "apk_url": "https://mt3ateema.com/vn64bit/PUBGM-VN-v3.8-64Bit.apk"
   },
   {
@@ -73,7 +73,7 @@
     "version": "3.8",
     "last_update": "2025-06-08",
     "arch": "armeabi-v7a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-VN-v3.8-Image.png"
+    "image_url": "https://mt3ateema.com/image/PUBGM-VN-v3.8-Image.png",
     "apk_url": "https://mt3ateema.com/vn32bit/PUBGM-VN-v3.8-32Bit.apk"
   },
     {
@@ -84,7 +84,7 @@
     "version": "3.8",
     "last_update": "2025-06-08",
     "arch": "arm64-v8a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-TW-v3.8-Image.png"
+    "image_url": "https://mt3ateema.com/image/PUBGM-TW-v3.8-Image.png",
     "apk_url": "https://mt3ateema.com/tw64bit/PUBGM-TW-v3.8-64Bit.apk"
   },
   {
@@ -95,7 +95,7 @@
     "version": "3.8",
     "last_update": "2025-06-08",
     "arch": "armeabi-v7a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-TW-v3.8-Image.png"
+    "image_url": "https://mt3ateema.com/image/PUBGM-TW-v3.8-Image.png",
     "apk_url": "https://mt3ateema.com/tw32bit/PUBGM-TW-v3.8-32Bit.apk"
   }
 ]
