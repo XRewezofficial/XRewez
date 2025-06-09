@@ -19,7 +19,8 @@
     "last_update": "2025-06-08",
     "arch": "arm64-v8a",
     "image_url": "https://mt3ateema.com/image/PUBGM-GL-v3.8.1-Image.png",
-    "apk_url": "https://mt3ateema.com/gl64bit/PUBGM-GL-v3.8.1-64Bit.apk"
+    "apk_url": "https://mt3ateema.com/gl64bit/PUBGM-GL-v3.8.1-64Bit.apk",
+    "obb_url": "https://mt3ateema.com/gl64bit/main.19935.com.tencent.ig.obb"
   },
   {
     "id": "Games2",
@@ -30,7 +31,8 @@
     "last_update": "2025-06-08",
     "arch": "armeabi-v7a",
     "image_url": "https://mt3ateema.com/image/PUBGM-GL-v3.8.1-Image.png",
-    "apk_url": "https://mt3ateema.com/gl32bit/PUBGM-GL-v3.8.1-32Bit.apk"
+    "apk_url": "https://mt3ateema.com/gl32bit/PUBGM-GL-v3.8.1-32Bit.apk",
+    "obb_url": "https://mt3ateema.com/gl32bit/main.19930.com.tencent.ig.obb"
   },
   {
     "id": "Games3",
@@ -41,7 +43,8 @@
     "last_update": "2025-06-08",
     "arch": "arm64-v8a",
     "image_url": "https://mt3ateema.com/image/PUBGM-KR-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/kr64bit/PUBGM-KR-v3.8-64Bit.apk"
+    "apk_url": "https://mt3ateema.com/kr64bit/PUBGM-KR-v3.8-64Bit.apk",
+    "obb_url": "https://mt3ateema.com/kr64bit/main.19925.com.pubg.krmobile.obb"
   },
   {
     "id": "Games4",
@@ -52,7 +55,8 @@
     "last_update": "2025-06-08",
     "arch": "armeabi-v7a",
     "image_url": "https://mt3ateema.com/image/PUBGM-KR-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/kr32bit/PUBGM-KR-v3.8-32Bit.apk"
+    "apk_url": "https://mt3ateema.com/kr32bit/PUBGM-KR-v3.8-32Bit.apk",
+    "obb_url": "https://mt3ateema.com/kr32bit/main.19920.com.pubg.krmobile.obb"
   },
     {
     "id": "Games5",
@@ -63,7 +67,8 @@
     "last_update": "2025-06-08",
     "arch": "arm64-v8a",
     "image_url": "https://mt3ateema.com/image/PUBGM-VN-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/vn64bit/PUBGM-VN-v3.8-64Bit.apk"
+    "apk_url": "https://mt3ateema.com/vn64bit/PUBGM-VN-v3.8-64Bit.apk",
+    "obb_url": "https://mt3ateema.com/vn64bit/main.19925.com.vng.pubgmobile.obb"
   },
   {
     "id": "Games6",
@@ -74,7 +79,8 @@
     "last_update": "2025-06-08",
     "arch": "armeabi-v7a",
     "image_url": "https://mt3ateema.com/image/PUBGM-VN-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/vn32bit/PUBGM-VN-v3.8-32Bit.apk"
+    "apk_url": "https://mt3ateema.com/vn32bit/PUBGM-VN-v3.8-32Bit.apk",
+    "obb_url": "https://mt3ateema.com/vn32bit/main.19920.com.vng.pubgmobile.obb"
   },
     {
     "id": "Games7",
@@ -85,103 +91,8 @@
     "last_update": "2025-06-08",
     "arch": "arm64-v8a",
     "image_url": "https://mt3ateema.com/image/PUBGM-TW-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/tw64bit/PUBGM-TW-v3.8-64Bit.apk"
-  },
-  {
-    "id": "Games8",
-    "type": "Games",
-    "name": "PUBG Mobile Taiwan",
-    "package": "com.rekoo.pubgm",
-    "version": "3.8",
-    "last_update": "2025-06-08",
-    "arch": "armeabi-v7a[
-    {
-    "id": "app1",
-    "type": "app",
-    "name": "MT Manger",
-    "package": "bin.mt.plus",
-    "version": "2.16.5",
-    "last_update": "2025-06-08",
-    "arch": "arm64-v8a",
-    "image_url": "https://example.com/app1.png",
-    "apk_url": "https://github.com/XRewezofficial/XRewez/raw/main/%D8%A5%D8%B3%D8%AA%D8%AE%D8%B1%D8%A7%D8%AC%20%D8%A7%D9%84%D8%A7%D8%B2%D8%A7%D8%AD%D8%A7%D8%AA_1.0.apk"
-  },
-  {
-    "id": "Games1",
-    "type": "Games",
-    "name": "PUBG Mobile Global",
-    "package": "com.tencent.ig",
-    "version": "3.8.1",
-    "last_update": "2025-06-08",
-    "arch": "arm64-v8a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-GL-v3.8.1-Image.png",
-    "apk_url": "https://mt3ateema.com/gl64bit/PUBGM-GL-v3.8.1-64Bit.apk"
-  },
-  {
-    "id": "Games2",
-    "type": "Games",
-    "name": "PUBG Mobile Global",
-    "package": "com.tencent.ig",
-    "version": "3.8",
-    "last_update": "2025-06-08",
-    "arch": "armeabi-v7a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-GL-v3.8.1-Image.png",
-    "apk_url": "https://mt3ateema.com/gl32bit/PUBGM-GL-v3.8.1-32Bit.apk"
-  },
-  {
-    "id": "Games3",
-    "type": "Games",
-    "name": "PUBG Mobile Korea",
-    "package": "com.pubg.krmobile",
-    "version": "3.8",
-    "last_update": "2025-06-08",
-    "arch": "arm64-v8a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-KR-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/kr64bit/PUBGM-KR-v3.8-64Bit.apk"
-  },
-  {
-    "id": "Games4",
-    "type": "Games",
-    "name": "PUBG Mobile Korea",
-    "package": "com.pubg.krmobile",
-    "version": "3.8",
-    "last_update": "2025-06-08",
-    "arch": "armeabi-v7a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-KR-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/kr32bit/PUBGM-KR-v3.8-32Bit.apk"
-  },
-    {
-    "id": "Games5",
-    "type": "Games",
-    "name": "PUBG Mobile Vietnam",
-    "package": "com.vng.pubgmobile",
-    "version": "3.8",
-    "last_update": "2025-06-08",
-    "arch": "arm64-v8a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-VN-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/vn64bit/PUBGM-VN-v3.8-64Bit.apk"
-  },
-  {
-    "id": "Games6",
-    "type": "Games",
-    "name": "PUBG Mobile Vietnam",
-    "package": "com.vng.pubgmobile",
-    "version": "3.8",
-    "last_update": "2025-06-08",
-    "arch": "armeabi-v7a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-VN-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/vn32bit/PUBGM-VN-v3.8-32Bit.apk"
-  },
-    {
-    "id": "Games7",
-    "type": "Games",
-    "name": "PUBG Mobile Taiwan",
-    "package": "com.rekoo.pubgm",
-    "version": "3.8",
-    "last_update": "2025-06-08",
-    "arch": "arm64-v8a",
-    "image_url": "https://mt3ateema.com/image/PUBGM-TW-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/tw64bit/PUBGM-TW-v3.8-64Bit.apk"
+    "apk_url": "https://mt3ateema.com/tw64bit/PUBGM-TW-v3.8-64Bit.apk",
+    "obb_url": "https://mt3ateema.com/tw64bit/main.19925.com.rekoo.pubgm.obb"
   },
   {
     "id": "Games8",
@@ -192,11 +103,7 @@
     "last_update": "2025-06-08",
     "arch": "armeabi-v7a",
     "image_url": "https://mt3ateema.com/image/PUBGM-TW-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/tw32bit/PUBGM-TW-v3.8-32Bit.apk"
-  }
-]
-",
-    "image_url": "https://mt3ateema.com/image/PUBGM-TW-v3.8-Image.png",
-    "apk_url": "https://mt3ateema.com/tw32bit/PUBGM-TW-v3.8-32Bit.apk"
+    "apk_url": "https://mt3ateema.com/tw32bit/PUBGM-TW-v3.8-32Bit.apk",
+    "obb_url": "https://mt3ateema.com/tw32bit/main.19920.com.rekoo.pubgm.obb"
   }
 ]
