@@ -7,16 +7,6 @@
     "game_version": "4.0",
     "game_arm": "armeabi-v7a",
     "game_support": "Global,Korea,Vietnam,Taiwn",
-    "lib_url": "github-raw"
-  },
-  {
-    "id": "card1",
-    "lib_name": "XRewez-Cheat UCanvas",
-    "lib_description": "PUBGM 4.0 [32-Root]",
-    "last_update": "2025/12/5",
-    "game_version": "4.0",
-    "game_arm": "armeabi-v7a",
-    "game_support": "Global,Korea,Vietnam,Taiwn",
-    "lib_url": "github-raw"
+    "lib_url": "https://github.com/XRewezofficial/XRewez/raw/refs/heads/main/libxrewez_cheat.so"
   }
 ]
